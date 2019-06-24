@@ -1,5 +1,5 @@
 # Meraki-Uplink-Check
--The script sends a list of Meraki devices that have uplinks listed as ‘failed’ or ‘not connected’ for over 45 minutes at a minimum.   This was done since Meraki doesn’t have an automatic alert to let you know if a backup wan/uplink port is down or failed.  See the sample report for an example
+-The script sends a list of Meraki devices that have uplinks listed as ‘failed’ or ‘not connected’ for over 45 minutes at a minimum.   This was done since Meraki doesn’t have an automatic alert to let you know if a backup wan/uplink port is down or failed.  See the sample report for an example.
 
 -This was designed to be run on a Windows server.
 
